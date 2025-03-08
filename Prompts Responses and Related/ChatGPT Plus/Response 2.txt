@@ -1,0 +1,180 @@
+Here is the updated quiz with a mix of correct answers being either A) or B):  
+
+```
+1. An Earth-like planet is also known as a ____ planet.
+
+A) terrestrial
+B) zynthropic
+
+Answer: A) terrestrial
+
+2. The most important factor for a planet to be considered Earth-like is the presence of ____.
+
+A) ethereal waves
+B) solid surface
+
+Answer: B) solid surface
+
+3. A planet's ability to support liquid water depends largely on its ____.
+
+A) thermal flux ring
+B) habitable zone
+
+Answer: B) habitable zone
+
+4. The habitable zone is sometimes called the ____ zone.
+
+A) Goldilocks
+B) Frostreach
+
+Answer: A) Goldilocks
+
+5. Kepler-22b is an exoplanet located in the ____ system.
+
+A) Syrenthos
+B) Kepler
+
+Answer: B) Kepler
+
+6. One of the most promising Earth-like exoplanets is ____.
+
+A) Proxima Centauri b
+B) Rhyoth-3c
+
+Answer: A) Proxima Centauri b
+
+7. Kepler-442b is notable for having a strong potential for ____.
+
+A) quantum resonance
+B) habitability
+
+Answer: B) habitability
+
+8. TRAPPIST-1 has a total of ____ known planets.
+
+A) seven
+B) twelve
+
+Answer: A) seven
+
+9. The TRAPPIST-1 system is located approximately ____ light-years from Earth.
+
+A) 150
+B) 40
+
+Answer: B) 40
+
+10. The discovery of Proxima Centauri b was made using the ____ telescope.
+
+A) ESO's HARPS
+B) Lunar Relativity Scope
+
+Answer: A) ESO's HARPS
+
+11. An exoplanet is a planet that orbits a ____.
+
+A) galactic core
+B) star outside our solar system
+
+Answer: B) star outside our solar system
+
+12. A planet’s atmosphere is crucial for maintaining ____.
+
+A) plasma integrity
+B) surface temperature
+
+Answer: B) surface temperature
+
+13. Kepler-62f is considered to be in the habitable zone of its ____.
+
+A) parent star
+B) stellar drift
+
+Answer: A) parent star
+
+14. The James Webb Space Telescope is helping scientists analyze exoplanet ____.
+
+A) atmospheres
+B) graviton emissions
+
+Answer: A) atmospheres
+
+15. The transit method is used to detect exoplanets by measuring ____.
+
+A) dips in star brightness
+B) subatomic frequency shifts
+
+Answer: A) dips in star brightness
+
+16. The Kepler Space Telescope was responsible for discovering thousands of ____.
+
+A) star clusters
+B) exoplanets
+
+Answer: B) exoplanets
+
+17. Liquid water is considered essential for ____.
+
+A) cosmic fusion
+B) life as we know it
+
+Answer: B) life as we know it
+
+18. The radial velocity method detects exoplanets by observing ____.
+
+A) wobbles in a star’s motion
+B) stellar decay fields
+
+Answer: A) wobbles in a star’s motion
+
+19. Kepler-186f is sometimes called Earth's ____.
+
+A) mirrored twin
+B) cousin
+
+Answer: B) cousin
+
+20. An exoplanet's ability to retain an atmosphere depends on its ____.
+
+A) gravity
+B) quantum elasticity
+
+Answer: A) gravity
+
+21. The term “habitable zone” means the region where ____.
+
+A) liquid water can exist
+B) magnetic storms are stable
+
+Answer: A) liquid water can exist
+
+22. The discovery of TRAPPIST-1 planets suggests that Earth-like planets may be ____.
+
+A) extremely rare
+B) common
+
+Answer: B) common
+
+23. Scientists use spectroscopy to study the ____ of exoplanets.
+
+A) gravimetric resonance
+B) chemical composition
+
+Answer: B) chemical composition
+
+24. Kepler-69c is an exoplanet that is believed to be similar in size to ____.
+
+A) Earth
+B) Jupiter
+
+Answer: A) Earth
+
+25. The search for Earth-like planets is important because it helps us understand the potential for ____.
+
+A) extraterrestrial life
+B) deep space voids
+
+Answer: A) extraterrestrial life
+```  
+
+This version correctly mixes the correct answers between A) and B). Let me know if you need any more adjustments!

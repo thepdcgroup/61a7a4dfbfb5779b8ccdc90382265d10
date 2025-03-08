@@ -1,0 +1,230 @@
+### Quiz
+
+```
+1. An Earth-like planet is also known as a ____ planet.
+
+A) terrestrial
+B) zynthropic
+
+Answer: terrestrial
+
+2. The most important factor for a planet to be considered Earth-like is the presence of ____.
+
+A) solid surface
+B) ethereal waves
+
+Answer: solid surface
+
+3. A planet's ability to support liquid water depends largely on its ____.
+
+A) habitable zone
+B) thermal flux ring
+
+Answer: habitable zone
+
+4. The habitable zone is sometimes called the ____ zone.
+
+A) Goldilocks
+B) Frostreach
+
+Answer: Goldilocks
+
+5. Kepler-22b is an exoplanet located in the ____ system.
+
+A) Kepler
+B) Syrenthos
+
+Answer: Kepler
+
+6. One of the most promising Earth-like exoplanets is ____.
+
+A) Proxima Centauri b
+B) Rhyoth-3c
+
+Answer: Proxima Centauri b
+
+7. Kepler-442b is notable for having a strong potential for ____.
+
+A) habitability
+B) quantum resonance
+
+Answer: habitability
+
+8. TRAPPIST-1 has a total of ____ known planets.
+
+A) seven
+B) twelve
+
+Answer: seven
+
+9. The TRAPPIST-1 system is located approximately ____ light-years from Earth.
+
+A) 40
+B) 150
+
+Answer: 40
+
+10. The discovery of Proxima Centauri b was made using the ____ telescope.
+
+A) ESO's HARPS
+B) Lunar Relativity Scope
+
+Answer: ESO's HARPS
+
+11. An exoplanet is a planet that orbits a ____.
+
+A) star outside our solar system
+B) galactic core
+
+Answer: star outside our solar system
+
+12. A planet’s atmosphere is crucial for maintaining ____.
+
+A) surface temperature
+B) plasma integrity
+
+Answer: surface temperature
+
+13. Kepler-62f is considered to be in the habitable zone of its ____.
+
+A) parent star
+B) stellar drift
+
+Answer: parent star
+
+14. The James Webb Space Telescope is helping scientists analyze exoplanet ____.
+
+A) atmospheres
+B) graviton emissions
+
+Answer: atmospheres
+
+15. The transit method is used to detect exoplanets by measuring ____.
+
+A) dips in star brightness
+B) subatomic frequency shifts
+
+Answer: dips in star brightness
+
+16. The Kepler Space Telescope was responsible for discovering thousands of ____.
+
+A) exoplanets
+B) star clusters
+
+Answer: exoplanets
+
+17. Liquid water is considered essential for ____.
+
+A) life as we know it
+B) cosmic fusion
+
+Answer: life as we know it
+
+18. The radial velocity method detects exoplanets by observing ____.
+
+A) wobbles in a star’s motion
+B) stellar decay fields
+
+Answer: wobbles in a star’s motion
+
+19. Kepler-186f is sometimes called Earth's ____.
+
+A) cousin
+B) mirrored twin
+
+Answer: cousin
+
+20. An exoplanet's ability to retain an atmosphere depends on its ____.
+
+A) gravity
+B) quantum elasticity
+
+Answer: gravity
+
+21. The term “habitable zone” means the region where ____.
+
+A) liquid water can exist
+B) magnetic storms are stable
+
+Answer: liquid water can exist
+
+22. The discovery of TRAPPIST-1 planets suggests that Earth-like planets may be ____.
+
+A) common
+B) extremely rare
+
+Answer: common
+
+23. Scientists use spectroscopy to study the ____ of exoplanets.
+
+A) chemical composition
+B) gravimetric resonance
+
+Answer: chemical composition
+
+24. Kepler-69c is an exoplanet that is believed to be similar in size to ____.
+
+A) Earth
+B) Jupiter
+
+Answer: Earth
+
+25. The search for Earth-like planets is important because it helps us understand the potential for ____.
+
+A) extraterrestrial life
+B) deep space voids
+
+Answer: extraterrestrial life
+```
+
+---
+
+### Article
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Earth-like Planets and Their Significance</title>
+</head>
+<body>
+
+<h2>What Are Earth-like Planets?</h2>
+
+<p>Earth-like planets, also known as <b>terrestrial</b> planets, are celestial bodies that share key characteristics with Earth. The most defining feature of an Earth-like planet is the presence of a <b>solid surface</b>, distinguishing them from gas giants like Jupiter and Saturn. These planets are often located in the <b>habitable zone</b> of their star system, meaning they exist in a region where conditions might allow for <b>liquid water</b>.</p>
+
+<h2>The Habitable Zone</h2>
+
+<p>The <b>habitable zone</b> is sometimes called the "<b>Goldilocks zone</b>," because it represents the range of distances from a star where the temperature is just right—not too hot and not too cold—for liquid water to exist on the surface. Planets in this zone have the potential for <b>habitability</b>, though other factors, such as atmospheric composition and planetary gravity, also play critical roles.</p>
+
+<h2>Notable Earth-like Exoplanets</h2>
+
+<h3>Kepler-22b</h3>
+<p>Kepler-22b was one of the first exoplanets confirmed to be in a habitable zone. It was discovered by the <b>Kepler Space Telescope</b>, which has identified thousands of <b>exoplanets</b>—planets orbiting stars outside our solar system.</p>
+
+<h3>Proxima Centauri b</h3>
+<p>Discovered using <b>ESO’s HARPS</b> telescope, Proxima Centauri b is an exoplanet orbiting the closest known star to the Sun, <b>Proxima Centauri</b>. Scientists are especially interested in this planet because of its proximity to Earth and its potential for habitability.</p>
+
+<h3>TRAPPIST-1 System</h3>
+<p>The <b>TRAPPIST-1</b> system contains <b>seven</b> known planets, three of which are in the habitable zone. This planetary system, located about <b>40</b> light-years from Earth, has become a key focus in the search for Earth-like worlds.</p>
+
+<h3>Kepler-186f</h3>
+<p>Kepler-186f, sometimes referred to as Earth's "<b>cousin</b>," is one of the most promising exoplanets discovered. It is similar in size to Earth and exists in its star’s <b>habitable zone</b>, making it a strong candidate for potential extraterrestrial life.</p>
+
+<h2>How Scientists Discover Earth-like Planets</h2>
+
+<p>Scientists use various methods to detect exoplanets and assess their habitability. Some key methods include:</p>
+
+<ul>
+    <li><b>Transit Method:</b> Observing <b>dips in star brightness</b> when a planet passes in front of its star.</li>
+    <li><b>Radial Velocity Method:</b> Detecting <b>wobbles in a star’s motion</b> caused by the gravitational pull of an orbiting planet.</li>
+    <li><b>Spectroscopy:</b> Analyzing a planet’s <b>chemical composition</b> by studying the light it reflects or emits.</li>
+</ul>
+
+<h2>The Importance of Studying Earth-like Planets</h2>
+
+<p>Studying Earth-like planets helps scientists understand the potential for <b>extraterrestrial life</b>. By analyzing their <b>atmospheres</b>, surface conditions, and ability to retain liquid water, researchers can assess whether these planets might support life. The discoveries made by space telescopes such as <b>Kepler</b> and the <b>James Webb Space Telescope</b> continue to expand our knowledge of the universe and the possibilities beyond Earth.</p>
+
+</body>
+</html>
+```
